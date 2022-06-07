@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/IsmahenAbdallah/static/css/main.a83d3778.css",
+    "main.js": "/IsmahenAbdallah/static/js/main.0c46bb8a.js",
+    "static/media/IMG20220203123546.jpg": "/IsmahenAbdallah/static/media/IMG20220203123546.283261e3db59cd3af512.jpg",
+    "static/media/p1.webp": "/IsmahenAbdallah/static/media/p1.52f0f3a89c11044c2037.webp",
+    "static/media/p5.webp": "/IsmahenAbdallah/static/media/p5.40f22911cc8104bfdf42.webp",
+    "static/media/bootstrap.png": "/IsmahenAbdallah/static/media/bootstrap.268c4375260420e8d982.png",
+    "static/media/mongodb.png": "/IsmahenAbdallah/static/media/mongodb.c9d3f247fffcdebc2bdf.png",
+    "static/media/p3.webp": "/IsmahenAbdallah/static/media/p3.05179f007af7cd2ad2a6.webp",
+    "static/media/p4.webp": "/IsmahenAbdallah/static/media/p4.373ffd063f14c91c84c5.webp",
+    "static/media/p6.webp": "/IsmahenAbdallah/static/media/p6.26fcf4320bfa0eacc03a.webp",
+    "static/media/p2.webp": "/IsmahenAbdallah/static/media/p2.987c883e6e66df8a1228.webp",
+    "index.html": "/IsmahenAbdallah/index.html",
+    "main.a83d3778.css.map": "/IsmahenAbdallah/static/css/main.a83d3778.css.map",
+    "main.0c46bb8a.js.map": "/IsmahenAbdallah/static/js/main.0c46bb8a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a83d3778.css",
+    "static/js/main.0c46bb8a.js"
+  ]
+}
