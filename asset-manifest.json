@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/IsmahenAbdallah/static/css/main.9d07032e.css",
-    "main.js": "/IsmahenAbdallah/static/js/main.f68feedd.js",
+    "main.js": "/IsmahenAbdallah/static/js/main.8de1a02c.js",
     "static/media/IMG20220203123546.jpg": "/IsmahenAbdallah/static/media/IMG20220203123546.283261e3db59cd3af512.jpg",
     "static/media/Image2.png": "/IsmahenAbdallah/static/media/Image2.9ddb7219e1d3eb48e6a6.png",
     "static/media/Image1.png": "/IsmahenAbdallah/static/media/Image1.7d6f53da4fe02745a48d.png",
-    "static/media/Image3.png": "/IsmahenAbdallah/static/media/Image3.056a31fe8b8e4f29abc6.png",
+    "static/media/Image3.png": "/IsmahenAbdallah/static/media/Image3.7567d002444dddc16733.png",
     "static/media/bootstrap.png": "/IsmahenAbdallah/static/media/bootstrap.268c4375260420e8d982.png",
     "static/media/mongodb.png": "/IsmahenAbdallah/static/media/mongodb.c9d3f247fffcdebc2bdf.png",
     "index.html": "/IsmahenAbdallah/index.html",
     "main.9d07032e.css.map": "/IsmahenAbdallah/static/css/main.9d07032e.css.map",
-    "main.f68feedd.js.map": "/IsmahenAbdallah/static/js/main.f68feedd.js.map"
+    "main.8de1a02c.js.map": "/IsmahenAbdallah/static/js/main.8de1a02c.js.map"
   },
   "entrypoints": [
     "static/css/main.9d07032e.css",
-    "static/js/main.f68feedd.js"
+    "static/js/main.8de1a02c.js"
   ]
 }
