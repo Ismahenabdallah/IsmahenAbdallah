@@ -1,4 +1,4 @@
-[![MasterHead](https://thumbs.gfycat.com/PoliticalEarnestChevrotain-size_restricted.gif)](https://ismahenabdallah.github.io/Portfolio_IsmahenAbdallah/)
+[![MasterHead](https://miro.medium.com/max/1400/1*X7Q84nkQN1DiFXC-rQLt9g.gif)](https://ismahenabdallah.github.io/Portfolio_IsmahenAbdallah/)
 <h1 align="center">Hi 👋, I'm ismahen abdallah</h1>
 <h3 align="center">full stack developer</h3>
 <img  align="center" width="800"
