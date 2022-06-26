@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/IsmahenAbdallah/static/css/main.3cbf31d0.css",
-    "main.js": "/IsmahenAbdallah/static/js/main.c3acae3a.js",
-    "static/media/IMG20220203123546.jpg": "/IsmahenAbdallah/static/media/IMG20220203123546.283261e3db59cd3af512.jpg",
-    "static/media/Image2.png": "/IsmahenAbdallah/static/media/Image2.9ddb7219e1d3eb48e6a6.png",
-    "static/media/Image1.png": "/IsmahenAbdallah/static/media/Image1.7d6f53da4fe02745a48d.png",
-    "static/media/Image3.png": "/IsmahenAbdallah/static/media/Image3.7567d002444dddc16733.png",
-    "static/media/bootstrap.png": "/IsmahenAbdallah/static/media/bootstrap.268c4375260420e8d982.png",
-    "static/media/mongodb.png": "/IsmahenAbdallah/static/media/mongodb.c9d3f247fffcdebc2bdf.png",
-    "index.html": "/IsmahenAbdallah/index.html",
-    "static/media/getFetch.cjs": "/IsmahenAbdallah/static/media/getFetch.c780682470504fffbd04.cjs",
-    "main.3cbf31d0.css.map": "/IsmahenAbdallah/static/css/main.3cbf31d0.css.map",
-    "main.c3acae3a.js.map": "/IsmahenAbdallah/static/js/main.c3acae3a.js.map"
+    "main.css": "/Portfolio_IsmahenAbdallah/static/css/main.3cbf31d0.css",
+    "main.js": "/Portfolio_IsmahenAbdallah/static/js/main.d5da1d36.js",
+    "static/media/IMG20220203123546.jpg": "/Portfolio_IsmahenAbdallah/static/media/IMG20220203123546.283261e3db59cd3af512.jpg",
+    "static/media/Image2.png": "/Portfolio_IsmahenAbdallah/static/media/Image2.9ddb7219e1d3eb48e6a6.png",
+    "static/media/Image1.png": "/Portfolio_IsmahenAbdallah/static/media/Image1.7d6f53da4fe02745a48d.png",
+    "static/media/Image3.png": "/Portfolio_IsmahenAbdallah/static/media/Image3.7567d002444dddc16733.png",
+    "static/media/bootstrap.png": "/Portfolio_IsmahenAbdallah/static/media/bootstrap.268c4375260420e8d982.png",
+    "static/media/mongodb.png": "/Portfolio_IsmahenAbdallah/static/media/mongodb.c9d3f247fffcdebc2bdf.png",
+    "index.html": "/Portfolio_IsmahenAbdallah/index.html",
+    "static/media/getFetch.cjs": "/Portfolio_IsmahenAbdallah/static/media/getFetch.c780682470504fffbd04.cjs",
+    "main.3cbf31d0.css.map": "/Portfolio_IsmahenAbdallah/static/css/main.3cbf31d0.css.map",
+    "main.d5da1d36.js.map": "/Portfolio_IsmahenAbdallah/static/js/main.d5da1d36.js.map"
   },
   "entrypoints": [
     "static/css/main.3cbf31d0.css",
-    "static/js/main.c3acae3a.js"
+    "static/js/main.d5da1d36.js"
   ]
 }
