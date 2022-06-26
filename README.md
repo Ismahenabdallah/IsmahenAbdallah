@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ismahenabdallah" alt="ismahenabdallah" /></a> </p>
 
-- 🌱 I’m currently learning **react.js**
+- 🌱 I’m currently learning **react.js MERN-STACK **
 
 - 👨‍💻 All of my projects are available at [https://ismahenabdallah.github.io/Portfolio_IsmahenAbdallah/](https://ismahenabdallah.github.io/Portfolio_IsmahenAbdallah/)
 
