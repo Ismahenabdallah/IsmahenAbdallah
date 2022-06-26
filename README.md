@@ -1,8 +1,6 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm ismahen abdallah</h1>
 <h3 align="center">full stack developer</h3>
-<img  align="right" width="400"
+<img  align="center" width="800"
  src="https://user-images.githubusercontent.com/45157446/161337980-87a1b2e4-99ea-4fc8-ab1e-faa61357b40d.gif"alt="coding"/>
 
 
