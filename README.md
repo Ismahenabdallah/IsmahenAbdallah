@@ -5,7 +5,6 @@
  src="https://user-images.githubusercontent.com/45157446/161337980-87a1b2e4-99ea-4fc8-ab1e-faa61357b40d.gif"alt="coding"/>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ismahenabdallah" alt="ismahenabdallah" /></a> </p>
 
 - 🌱 I’m currently learning **react.js MERN-STACK **
 
