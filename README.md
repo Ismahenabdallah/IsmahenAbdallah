@@ -8,8 +8,8 @@
 
 - 🌱 I’m currently learning **react.js MERN-STACK **
 
-- 👨‍💻 All of my projects are available at [https://ismahenabdallah.github.io/Portfolio_IsmahenAbdallah/](https://ismahenabdallah.github.io/Portfolio_IsmahenAbdallah/)
-
+- 👨‍💻 All of my projects are available at 
+https://ismahenabdallah.github.io/portfolio/
 - 💬 Ask me about **MERN-STACK**
 
 - 📫 How to reach me **abdaalh.ismahen99@gmail.com**
